@@ -1,1 +1,1 @@
-# whiteface-api
+# Project WhiteFace
